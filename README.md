@@ -3,7 +3,7 @@
 
 # Tech Step
 
-**Tech Step** is an educational platform that offers **practical, project-based learning** in software development. 
+**Tech Step** is an educational platform that offers **practical, project-based content** in software development. 
 
 ## What We Provide
 
