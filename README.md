@@ -26,5 +26,5 @@
 
 - Email: [techstep@techstep.sa](mailto:techstep@techstep.sa)  
 - Website: [techstep.sa](https://techstep.sa) *(Coming Soon)*
-- TikTok: [tech step](tiktok.com/@tech-step-25)
+- TikTok: [tech step](https://tiktok.com/@tech-step-25)
 
