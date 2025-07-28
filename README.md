@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="header" src="https://github.com/user-attachments/assets/4b8b2ce6-ba9f-4a85-b4d7-100a1f53be19" />
-
+<img width="1584" height="396" alt="تصميم بدون عنوان (1)" src="https://github.com/user-attachments/assets/47efc3a5-1f18-45b8-ad9d-0b0c06d2c256" />
 
 # Tech Step
 
