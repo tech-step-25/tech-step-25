@@ -12,7 +12,7 @@
 
 ## Explore Our Work
 
-- [Smart Personal Shopper App](https://github.com/tech-step-25/Smart-Personal-Shopper-App ) – Bootstrap + JavaScript + OpenAI
+- [Product Recommender App](https://github.com/tech-step-25/Product-Recommender-App ) – Bootstrap + JavaScript + OpenAI
 - [Smart To-Do List App](https://github.com/tech-step-25/Smart-To-Do-List-App) – Tailwind CSS + MUI + React + OpenAI  
 - [Portfolio Website](https://github.com/tech-step-25/Portfolio) – Tailwind CSS  
 - [E-commerce Landing Page](https://github.com/tech-step-25/E-commerce-Landing-Page) – HTML + CSS + JavaScript
